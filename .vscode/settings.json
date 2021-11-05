@@ -1,0 +1,10 @@
+{
+    "terminal.explorerKind": "external",
+		"terminal.integrated.profiles.linux": {
+			"bash": {
+				"path": "bash",
+				"icon": "terminal-bash"
+			}
+		},
+		"terminal.integrated.defaultProfile.linux": "bash"
+}
